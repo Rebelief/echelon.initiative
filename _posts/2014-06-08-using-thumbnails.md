@@ -12,4 +12,4 @@ tags:
 
 Login with E-mail
 
-
+E-mails are verified by security system, you will be notified after the verification process via your E-mail.
