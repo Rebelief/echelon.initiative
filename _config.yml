@@ -17,7 +17,7 @@ github_username:
 
 # Footer
 footer_left: ""
-footer_right: "&lt;/&gt; on <a href=\"https://rebelief.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_right: "&lt;/&gt;  <a href=\"https://rebelief.github.io\">Refresh Page</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
