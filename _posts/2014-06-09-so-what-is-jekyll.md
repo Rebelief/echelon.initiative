@@ -11,3 +11,6 @@ tags:
 ---
 
 Insert keycard into card reader and wait for system to confirm your data.
+...
+Error
+*This computer is not connected to security grid*
