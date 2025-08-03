@@ -6,7 +6,7 @@ baseurl: ""
 url: ""
 title_description: "We are building safer tomorrows"
 title_image: "https://github.com/Rebelief/rebelief.github.io/blob/be65f843d168645eb0808e90a24086b56b84e8d3/favicons/web-app-manifest-512x512.png"
-google_analytics: "UA-20365477-4"
+google_analytics: ""
 disqus_account: 
 github_repository: https://rebelief.github.io
 addthis_id: ra-513c6fa83da6ec67
