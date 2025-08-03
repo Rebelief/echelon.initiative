@@ -9,3 +9,5 @@ tags:
  - about
  - Echelon system
 ---
+
+Insert keycard into card reader and wait for system to confirm your data.
